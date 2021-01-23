@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.parent{
+    /* background-color: darkorchid; */
+    width: 100%;
+    display: flex;
+}
+
+.vision{
+    /* margin-top: 100px; */
+    height: 100vh;
+    background-color:#e62b1e;
+    /* margin: 20px; */
+    width: 50%;
+    /* float: left; */
+}
+
+.vision h1{
+    border: 2px solid black;
+    padding: 20px 30px;
+    background-color: burlywood;
+    color: black;
+    
+    
+}
+.vision p{
+    padding-top: 30px;
+    padding-left: 50px;
+}
+
+    
+
+.vision p{
+    padding-top: 30px;
+    padding-left: 50px;
+}
+.about{
+    width: 50%;
+    background-color: pink;
+    height: 100vh;
+    /* float: right; */
+    /* position: absolute; */
+}
